@@ -18,18 +18,21 @@ app.use(express.static("public"));
 app.get("/", (req, res) => {
   res.render("index", {
     title: "Main page",
+    isHome: true,
   });
 });
 
 app.get("/add", (req, res) => {
   res.render("add", {
     title: "Add course",
+    isAdd: true,
   });
 });
 
 app.get("/courses", (req, res) => {
   res.render("courses", {
     title: "Courses",
+    isCourse: true,
   });
 });
 
