@@ -1,1 +1,1 @@
-{"courses":[],"price":0}
+{"courses":[{"title":"Vue JS (v 3)","price":"30000","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png","id":"b56de685-9bdf-4c4b-8302-80ad480732ef","count":1},{"title":"React JS","price":"50000","img":"https://www.codingguru.com/Images/TopProgrammingLanguages/reactjs.svg","id":"40074912-58f0-491e-a4df-0d951f0d20a0","count":2}],"price":130000}
